@@ -1,0 +1,3 @@
+C:/Users/utente/Desktop/ProgettoGit/cmake-build-debug/CMakeFiles/ProgettoGit.dir
+C:/Users/utente/Desktop/ProgettoGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/utente/Desktop/ProgettoGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
